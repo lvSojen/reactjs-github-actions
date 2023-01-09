@@ -4,7 +4,7 @@ import { Button } from "react-bootstrap"
 function HomeScreen() {
   return (
     <div>
-      <div>HomeScreen</div>
+      <div>411W GOLD HomeScreen</div>
       <Link to="/product">
         <Button variant="primary">Go to Product Screen</Button>
       </Link>
